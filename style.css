@@ -3,3 +3,8 @@ body {
     background-color: lightyellow;
     color: darkblue;
 }
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
