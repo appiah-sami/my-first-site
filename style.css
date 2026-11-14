@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    background-color: lightyellow;
+    color: darkblue;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
